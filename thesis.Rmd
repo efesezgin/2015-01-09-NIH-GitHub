@@ -18,7 +18,5 @@ plot(cars)
 ```
 
 ```{r}
-print("foo")
-print("bar")
 print("foobar")
 ```
