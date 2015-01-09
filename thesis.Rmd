@@ -13,5 +13,7 @@ really cool stuff
 ##Discussion
 more stuff
 
-```{r}
+```{r, echo=FALSE}
+plot(cars)
 ```
+
