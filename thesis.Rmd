@@ -12,3 +12,6 @@ really cool stuff
 
 ##Discussion
 more stuff
+
+```{r}
+```
