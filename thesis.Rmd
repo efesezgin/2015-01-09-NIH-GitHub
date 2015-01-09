@@ -17,3 +17,6 @@ more stuff
 plot(cars)
 ```
 
+```{r}
+print("bar")
+```
